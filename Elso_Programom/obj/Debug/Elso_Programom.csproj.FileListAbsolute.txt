@@ -1,0 +1,7 @@
+C:\Users\patri\Desktop\C#\Elso_Programom\bin\Debug\Elso_Programom.exe.config
+C:\Users\patri\Desktop\C#\Elso_Programom\bin\Debug\Elso_Programom.exe
+C:\Users\patri\Desktop\C#\Elso_Programom\bin\Debug\Elso_Programom.pdb
+C:\Users\patri\Desktop\C#\Elso_Programom\obj\Debug\Elso_Programom.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\C#\Elso_Programom\obj\Debug\Elso_Programom.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C#\Elso_Programom\obj\Debug\Elso_Programom.exe
+C:\Users\patri\Desktop\C#\Elso_Programom\obj\Debug\Elso_Programom.pdb
