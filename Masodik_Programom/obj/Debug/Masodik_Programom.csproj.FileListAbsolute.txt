@@ -1,0 +1,7 @@
+C:\Users\patri\Desktop\C#\Masodik_Programom\bin\Debug\Masodik_Programom.exe.config
+C:\Users\patri\Desktop\C#\Masodik_Programom\bin\Debug\Masodik_Programom.exe
+C:\Users\patri\Desktop\C#\Masodik_Programom\bin\Debug\Masodik_Programom.pdb
+C:\Users\patri\Desktop\C#\Masodik_Programom\obj\Debug\Masodik_Programom.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\C#\Masodik_Programom\obj\Debug\Masodik_Programom.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C#\Masodik_Programom\obj\Debug\Masodik_Programom.exe
+C:\Users\patri\Desktop\C#\Masodik_Programom\obj\Debug\Masodik_Programom.pdb
