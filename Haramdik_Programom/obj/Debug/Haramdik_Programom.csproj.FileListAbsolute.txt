@@ -1,0 +1,7 @@
+C:\Users\patri\Desktop\C#\Haramdik_Programom\bin\Debug\Haramdik_Programom.exe.config
+C:\Users\patri\Desktop\C#\Haramdik_Programom\bin\Debug\Haramdik_Programom.exe
+C:\Users\patri\Desktop\C#\Haramdik_Programom\bin\Debug\Haramdik_Programom.pdb
+C:\Users\patri\Desktop\C#\Haramdik_Programom\obj\Debug\Haramdik_Programom.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\C#\Haramdik_Programom\obj\Debug\Haramdik_Programom.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C#\Haramdik_Programom\obj\Debug\Haramdik_Programom.exe
+C:\Users\patri\Desktop\C#\Haramdik_Programom\obj\Debug\Haramdik_Programom.pdb
