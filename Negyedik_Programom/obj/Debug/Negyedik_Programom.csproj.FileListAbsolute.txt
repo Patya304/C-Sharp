@@ -1,0 +1,7 @@
+C:\Users\patri\Desktop\C#\Negyedik_Programom\bin\Debug\Negyedik_Programom.exe.config
+C:\Users\patri\Desktop\C#\Negyedik_Programom\bin\Debug\Negyedik_Programom.exe
+C:\Users\patri\Desktop\C#\Negyedik_Programom\bin\Debug\Negyedik_Programom.pdb
+C:\Users\patri\Desktop\C#\Negyedik_Programom\obj\Debug\Negyedik_Programom.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\C#\Negyedik_Programom\obj\Debug\Negyedik_Programom.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C#\Negyedik_Programom\obj\Debug\Negyedik_Programom.exe
+C:\Users\patri\Desktop\C#\Negyedik_Programom\obj\Debug\Negyedik_Programom.pdb
