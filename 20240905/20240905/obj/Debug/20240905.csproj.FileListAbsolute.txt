@@ -1,0 +1,6 @@
+Z:\Asztali alkalmazások\20240905\20240905\bin\Debug\20240905.exe.config
+Z:\Asztali alkalmazások\20240905\20240905\bin\Debug\20240905.exe
+Z:\Asztali alkalmazások\20240905\20240905\bin\Debug\20240905.pdb
+Z:\Asztali alkalmazások\20240905\20240905\obj\Debug\20240905.csprojAssemblyReference.cache
+Z:\Asztali alkalmazások\20240905\20240905\obj\Debug\20240905.exe
+Z:\Asztali alkalmazások\20240905\20240905\obj\Debug\20240905.pdb
