@@ -11,7 +11,7 @@ namespace _20240911matematika_muveletek
         static void Main(string[] args)
         {
 
-            //1. Feladat
+                        //1. Feladat
             Console.WriteLine("\t1. Feladat");
             int oldalh;
             int n_kerulet;
@@ -26,7 +26,7 @@ namespace _20240911matematika_muveletek
             n_terulet = oldalh * oldalh;
             Console.WriteLine($"A négyzet területe: {n_terulet}");
 
-            //2. Feladat
+                        //2. Feladat
             Console.WriteLine("\n\t2. Feladat");
             int fhossz;
             int ahossz;
@@ -45,7 +45,7 @@ namespace _20240911matematika_muveletek
             tr_terulet = ((ahossz + fhossz) * trm) / 2;
             Console.WriteLine($"A trapéz területe: {tr_terulet}");
 
-            //3. Feladat
+                        //3. Feladat
             Console.WriteLine("\n\t3. Feladat");
             int thossz;
             int szelesseg;
@@ -64,8 +64,8 @@ namespace _20240911matematika_muveletek
             tg_kerulet = 2 * (thossz + szelesseg);
             Console.WriteLine($"A téglalap kerülete: {tg_terulet}");
 
-            //4. Feladat
-            Console.WriteLine("\n\t4. Feladat")
+                        //4. Feladat
+            Console.WriteLine("\n\t4. Feladat");
 
             int hr_hossz;
             int hrm;
@@ -80,13 +80,21 @@ namespace _20240911matematika_muveletek
             hr_terulet = (hr_hossz + hrm) / 2;
             Console.WriteLine($"A háromszög területe: {hr_terulet}");
 
+                        //5. Feladat
+            Console.WriteLine("\n\t5. Feladat");
+            int k_sugar;
+            int k_kerulet;
+            int k_terulet;
 
+            Console.Write("Add meg a kör sugarát: ");
+            hr_hossz = Convert.ToInt32(Console.ReadLine());
 
+            k_kerulet = 2 * k_sugar * Math.PI;
+            Console.WriteLine($"A kör kerülete: {k_kerulet}");
 
-
+            k_terulet = k_sugar**2 * Math.PI;
+            Console.WriteLine($"A kör területe: {k_terulet}");
             Console.ReadKey();
-
-
         }
     }
 }
