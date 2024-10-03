@@ -1,0 +1,6 @@
+Z:\Asztali alkalmazások\elagazas\elagazas\bin\Debug\elagazas.exe.config
+Z:\Asztali alkalmazások\elagazas\elagazas\bin\Debug\elagazas.exe
+Z:\Asztali alkalmazások\elagazas\elagazas\bin\Debug\elagazas.pdb
+Z:\Asztali alkalmazások\elagazas\elagazas\obj\Debug\elagazas.csprojAssemblyReference.cache
+Z:\Asztali alkalmazások\elagazas\elagazas\obj\Debug\elagazas.exe
+Z:\Asztali alkalmazások\elagazas\elagazas\obj\Debug\elagazas.pdb
