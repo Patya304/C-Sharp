@@ -1,0 +1,144 @@
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static Random rand = new Random();
+
+    // Kártyák értékei (csak a kártyák számértéke a J, Q, K és A-t 10-nek vesszük)
+    static Dictionary<string, int> kartyaErtekek = new Dictionary<string, int>
+    {
+        { "2", 2 }, { "3", 3 }, { "4", 4 }, { "5", 5 }, { "6", 6 },
+        { "7", 7 }, { "8", 8 }, { "9", 9 }, { "10", 10 }, { "J", 10 },
+        { "Q", 10 }, { "K", 10 }, { "A", 11 }
+    };
+
+    // Kártyák listája (minden kártya négyszer szerepel)
+    static List<string> pakli = new List<string> { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A" };
+
+    // Pakli keverése
+    static List<string> KeverPakli()
+    {
+        List<string> kevertPakli = new List<string>();
+        foreach (var kartya in pakli)
+        {
+            for (int i = 0; i < 4; i++)  // 4 pakli (minden kártya négyszer szerepel)
+                kevertPakli.Add(kartya);
+        }
+        kevertPakli.Sort((x, y) => rand.Next().CompareTo(rand.Next())); // Véletlenszerű rendezés
+        return kevertPakli;
+    }
+
+    // Kéz összértéke
+    static int KeszErtek(List<string> kez)
+    {
+        int ertek = 0;
+        foreach (var kartya in kez)
+        {
+            ertek += kartyaErtekek[kartya];
+        }
+
+        // Ha túllépi a 21-et, és van ász, akkor 11-ről 1-re váltjuk
+        int aszokSzama = kez.FindAll(k => k == "A").Count;
+        while (ertek > 21 && aszokSzama > 0)
+        {
+            ertek -= 10; // Egy ászt 11-ről 1-re váltunk
+            aszokSzama--;
+        }
+
+        return ertek;
+    }
+
+    // Játékos döntése
+    static bool JatekosKorkor(List<string> jatekosKez, ref List<string> pakli)
+    {
+        while (KeszErtek(jatekosKez) < 21)
+        {
+            Console.WriteLine($"Játékos kártyái: {string.Join(", ", jatekosKez)} | Összérték: {KeszErtek(jatekosKez)}");
+            Console.Write("Kérsz egy új kártyát? (i/n): ");
+            string valasz = Console.ReadLine();
+            if (valasz.ToLower() == "i")
+            {
+                jatekosKez.Add(pakli[0]);
+                pakli.RemoveAt(0);
+            }
+            else
+            {
+                break;
+            }
+        }
+        return KeszErtek(jatekosKez) <= 21; // A játékos nyer, ha nem lépi túl a 21-et
+    }
+
+    // Gép döntése
+    static void GepKorkor(List<string> gepKez, ref List<string> pakli)
+    {
+        while (KeszErtek(gepKez) < 17)  // A gép 17-ig húz
+        {
+            gepKez.Add(pakli[0]);
+            pakli.RemoveAt(0);
+        }
+    }
+
+    // Egy mérkőzés szimulálása
+    static string JatszBlackjack()
+    {
+        List<string> pakli = KeverPakli();  // Pakli keverése
+        List<string> jatekosKez = new List<string> { pakli[0], pakli[1] };  // Játékos kártyái
+        List<string> gepKez = new List<string> { pakli[2], pakli[3] };  // Gép kártyái
+        pakli.RemoveRange(0, 4);  // Első négy kártya elvételése
+
+        Console.WriteLine($"Gép első kártyája: {gepKez[0]}");
+
+        // Játékos kör
+        bool jatekosJo = JatekosKorkor(jatekosKez, ref pakli);
+        if (!jatekosJo)
+        {
+            return "Gép";  // Ha a játékos túl lépi a 21-et, a gép nyer
+        }
+
+        // Gép kör
+        GepKorkor(gepKez, ref pakli);
+
+        // Kéz értékelése
+        int jatekosErtek = KeszErtek(jatekosKez);
+        int gepErtek = KeszErtek(gepKez);
+
+        Console.WriteLine($"Játékos kártyái: {string.Join(", ", jatekosKez)} | Összérték: {jatekosErtek}");
+        Console.WriteLine($"Gép kártyái: {string.Join(", ", gepKez)} | Összérték: {gepErtek}");
+
+        if (jatekosErtek > 21) return "Gép";  // Játékos túllépte a 21-et
+        if (gepErtek > 21) return "Játékos";  // Gép túllépte a 21-et
+
+        if (jatekosErtek > gepErtek) return "Játékos";
+        else if (gepErtek > jatekosErtek) return "Gép";
+        else return "Döntetlen";  // Ha ugyanaz, döntetlen
+    }
+
+    // Több mérkőzés szimulálása
+    static void FuttassSzimulaciot(int jatekokSzama)
+    {
+        int jatekosNyert = 0;
+        int gepNyert = 0;
+        int dontetlen = 0;
+
+        for (int i = 0; i < jatekokSzama; i++)
+        {
+            string nyertes = JatszBlackjack();
+            if (nyertes == "Játékos") jatekosNyert++;
+            else if (nyertes == "Gép") gepNyert++;
+            else dontetlen++;
+        }
+
+        Console.WriteLine($"Játékok száma: {jatekokSzama}");
+        Console.WriteLine($"Játékos nyert: {jatekosNyert}");
+        Console.WriteLine($"Gép nyert: {gepNyert}");
+        Console.WriteLine($"Döntetlen: {dontetlen}");
+    }
+
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Blackjack szimuláció kezdete...");
+        FuttassSzimulaciot(1000); // 1000 játék szimulálása
+    }
+}
