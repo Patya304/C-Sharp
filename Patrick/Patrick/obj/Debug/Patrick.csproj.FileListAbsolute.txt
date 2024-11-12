@@ -1,0 +1,7 @@
+D:\Desktop\Patrick\Patrick\bin\Debug\Patrick.exe.config
+D:\Desktop\Patrick\Patrick\bin\Debug\Patrick.exe
+D:\Desktop\Patrick\Patrick\bin\Debug\Patrick.pdb
+D:\Desktop\Patrick\Patrick\obj\Debug\Patrick.csproj.AssemblyReference.cache
+D:\Desktop\Patrick\Patrick\obj\Debug\Patrick.csproj.CoreCompileInputs.cache
+D:\Desktop\Patrick\Patrick\obj\Debug\Patrick.exe
+D:\Desktop\Patrick\Patrick\obj\Debug\Patrick.pdb
