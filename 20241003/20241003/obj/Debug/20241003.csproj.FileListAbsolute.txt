@@ -1,0 +1,6 @@
+C:\Users\modroczky.patrik\source\repos\20241003\20241003\bin\Debug\20241003.exe.config
+C:\Users\modroczky.patrik\source\repos\20241003\20241003\bin\Debug\20241003.exe
+C:\Users\modroczky.patrik\source\repos\20241003\20241003\bin\Debug\20241003.pdb
+C:\Users\modroczky.patrik\source\repos\20241003\20241003\obj\Debug\20241003.csprojAssemblyReference.cache
+C:\Users\modroczky.patrik\source\repos\20241003\20241003\obj\Debug\20241003.exe
+C:\Users\modroczky.patrik\source\repos\20241003\20241003\obj\Debug\20241003.pdb
