@@ -1,0 +1,36 @@
+Füstölt pisztráng salátaágyon	820	Elõétel
+Juhsajt roston, áfonyával töltött almával	790	Elõétel
+Ízletes zöldsaláta balzsamöntettel,pirított dióval	680	Elõétel
+Mangalicakolbász krumpli bundában 	820	Elõétel
+Libaleves libamájgombóccal	580	Leves
+Savanyú bableves kolbásszal	780	Leves
+Vargányás káposztaleves füstölt hússal	720	Leves
+Póréhagymás burgonya krémleves	590	Leves
+Tejfeles pisztrángfilé szalonnás burgonyával	2390	Fõétel
+Baconos harcsatörzs, zöldséges raguval, petrezselymes burgonyával 	2080	Fõétel
+Sült libacomb tepertõs, tört burgonyával, ahogy a nagymama készítette	1890	Fõétel
+Vasalt csirkecomb tepsis krumplival, parasztsalátával	1590	Fõétel
+Palóc csirkemell tejszínes kukoricával, rizzsel	1390	Fõétel
+Õszi pulykamell roston, burgonyapürével és áfonyás meggyel (dióval, aszalt szilvával, gesztenyével töltve) 	1790	Fõétel
+Zsigmond pecsenye brindzás burgonyával	1890	Fõétel
+Csirkemell sajtmártással rizzsel 	1290	Fõétel
+Pulykamell sajtos bundában, sült burgonyával	1590	Fõétel
+Báránycsülök hagymás pirított burgonyával, fokhagyma kompóttal	3290	Fõétel
+Erdészragu tócsnival (vegyes húsokból készített pikáns ragu gombával)	1790	Fõétel
+Parasztos mangalicasült, párolt káposztával, knédlivel 	1670	Fõétel
+Vörösboros szarvaspörkölt haluskával	2290	Fõétel
+Bélszínszelet vargányás raguval, sült krumplival 	3290	Fõétel
+Borjúkaraj ahogy azt Mari ángyó készítette (fejtett babbal, füstölt sonkával, zöldségekkel )	2690	Fõétel
+Vegetáriánus Steak (grillezett padlizsán zöldségekkel és sajttal sütve)	1310	Fõétel
+A király bõségtála (Bacsa szelet, sült libacomb, roston csirkemell, sült gomba, vegyes körettel és házi savanyúsággal)	4290	Fõétel
+Brindzáshaluska, avagy a juhtúrós sztrapacska 	890	Tészta
+Tócsni körözött juhtúróval 	680	Tészta
+Savanyú káposztás haluska	840	Tészta
+Lilakáposzta saláta	320	Saláta
+Tejfölös uborkasaláta	390	Saláta
+Bazsalikomos paradicsomsaláta	470	Saláta
+Vegyes házi savanyúság	390	Saláta
+Diós palacsinta csoki öntettel	590	Desszert
+Mákos palacsinta szilvaszósszal	580	Desszert
+Vörösboros birsalma karamellfagyival, rumos fehér csokival	700	Desszert
+Gesztenye parfé erdei öntettel	460	Desszert

@@ -1,0 +1,431 @@
+10	Bucséter Martin	Szent László ÁMK	Baja	67	környezetvédelem
+24	Kotek Tamás	Szent László ÁMK	Baja	55	környezetvédelem
+34	Nagy Ferenc	Gépészeti és Számítástechnikai Szki	Békéscsaba	76	gépész
+42	Baji András	Gépészeti és Számítástechnikai Szki	Békéscsaba	74	gépész
+44	Hornok Szabolcs	Gépészeti és Számítástechnikai Szki	Békéscsaba	74	gépész
+74	Wolfart Gábor	Gépészeti és Számítástechnikai Szki	Békéscsaba	71	gépész
+48	Ancsin Ákos	Gépészeti és Számítástechnikai Szki	Békéscsaba	64	informatika
+130	Székely Barnabás	Gépészeti és Számítástechnikai Szki	Békéscsaba	49	informatika
+184	Mátyási Sándor	Gépészeti és Számítástechnikai Szki	Békéscsaba	37	informatika
+64	Nagy Péter	Bláthy	Budapest	61	informatika
+91	Badari Ariana	Bláthy	Budapest	56	informatika
+159	Melis Krisztián	Bláthy	Budapest	43	informatika
+24	Balázs Dániel	Bolyai	Budapest	71	informatika
+40	Szabó Richárd	Bolyai	Budapest	66	informatika
+87	Kele Márk	Bolyai	Budapest	57	informatika
+111	Bártfai Barnabás	Bolyai	Budapest	52	informatika
+117	Takács Bernadett Mariann	Bolyai	Budapest	52	informatika
+149	Fekete Norbert Zsolt	Bolyai	Budapest	45	informatika
+166	Prudovits Dávid	Bolyai	Budapest	42	informatika
+181	Plaier Gergely	Bolyai	Budapest	38	informatika
+29	Matyasi Balázs	Eötvös	Budapest	77	gépész
+39	Lakatos László Benjamin	Eötvös	Budapest	75	gépész
+40	Lin Ten Ming	Eötvös	Budapest	75	gépész
+49	Nyíri Bence Gyõzõ	Eötvös	Budapest	74	gépész
+121	Blahó Tamás	Eötvös	Budapest	58	gépész
+129	Garami Balázs	Eötvös	Budapest	56	gépész
+134	Kovács Gyula János	Eötvös	Budapest	55	gépész
+145	Szombati Krisztián	Eötvös	Budapest	53	gépész
+175	Németh Dávid	Eötvös	Budapest	39	informatika
+194	Tusa Ábrahám Ignác	Eötvös	Budapest	31	informatika
+35	Szekszárdi Krisztina Viktória	Eötvös	Budapest	50	környezetvédelem
+37	Jansik Krisztián	Eötvös	Budapest	49	környezetvédelem
+43	Kiss Henriett Anna	Eötvös	Budapest	44	környezetvédelem
+45	Bakai Norbert	Eötvös	Budapest	41	környezetvédelem
+56	Szûcs Mátyás	Eötvös	Budapest	29	környezetvédelem
+57	Polyák Zoltán	Eötvös	Budapest	27	környezetvédelem
+58	Sándor Balázs	Eötvös	Budapest	27	környezetvédelem
+59	Deák Richárd	Eötvös	Budapest	26	környezetvédelem
+97	Kóczé Tibor	Fodor	Budapest	56	informatika
+145	Cserkõ Zsombor	Fodor	Budapest	46	informatika
+176	Reim Tamás	Fodor	Budapest	39	informatika
+20	Mérõ Bálint	Neumann	Budapest	73	informatika
+33	Kerekes Kristóf	Neumann	Budapest	68	informatika
+35	Pospischil Tamás	Neumann	Budapest	67	informatika
+38	Molnár László Miklós	Neumann	Budapest	66	informatika
+39	Palatinszky Dániel Gábor	Neumann	Budapest	66	informatika
+43	Pápai László	Neumann	Budapest	65	informatika
+44	Papp Henrik	Neumann	Budapest	65	informatika
+47	Zámbó Viktor	Neumann	Budapest	65	informatika
+60	Szabó Ákos	Neumann	Budapest	62	informatika
+73	Baki Tamás	Neumann	Budapest	59	informatika
+75	Kirilla Dániel András	Neumann	Budapest	59	informatika
+80	Végh Ádám	Neumann	Budapest	59	informatika
+83	Batta Tamás ádám	Neumann	Budapest	57	informatika
+93	Füzesi Krisztián	Neumann	Budapest	56	informatika
+107	Gyöngyösi Dániel	Neumann	Budapest	53	informatika
+76	Lovas János	Pataky	Budapest	59	informatika
+77	Módis Róbert	Pataky	Budapest	59	informatika
+120	Tischler Kristóf	Pataky	Budapest	51	informatika
+9	Varga Márton	Petrik	Budapest	68	környezetvédelem
+23	Nyilas Balázs	Petrik	Budapest	56	környezetvédelem
+30	Grmela Máté	Petrik	Budapest	54	környezetvédelem
+126	Kártyás Bálint	Puskás	Budapest	49	informatika
+138	Weisz Attila	Puskás	Budapest	48	informatika
+171	Szücs Bertalan	Puskás	Budapest	41	informatika
+50	Takáts Tamás	Semmelweis	Budapest	39	környezetvédelem
+54	Surák Gabriella	Semmelweis	Budapest	32	környezetvédelem
+104	Nyitrai Zsolt	Szily	Budapest	54	informatika
+165	Pataki Dániel Zoltán	Szily	Budapest	42	informatika
+198	Bálint István	Szily	Budapest	24	informatika
+44	Horváth Bianka	Than	Budapest	43	környezetvédelem
+49	Orosz András	Than	Budapest	39	környezetvédelem
+53	Mirk Tünde	Than	Budapest	33	környezetvédelem
+70	Medvenics Máté	Trefort	Budapest	60	informatika
+79	Nagy Eszter	Trefort	Budapest	59	informatika
+55	Szabó Ferenc	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	73	gépész
+93	Németh Máté	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	66	gépész
+100	Magyar Zoltán	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	63	gépész
+127	Simon Dávid	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	57	gépész
+132	Selmeczi Noé	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	56	gépész
+139	Gyurkó Bence	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	54	gépész
+142	Forgó Dávid	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	53	gépész
+147	Fedor Tibor	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	52	gépész
+152	Boldogh Bence	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	51	gépész
+155	Csender Gábor	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	50	gépész
+163	Kóbor Levente	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	47	gépész
+168	Szakács Dániel	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	41	gépész
+169	Raksányi Mátyás	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	40	gépész
+31	Szalay Tamás	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	69	informatika
+49	Czap Balázs	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	64	informatika
+95	Katona Dávid József	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	56	informatika
+98	Kovács Máté	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	56	informatika
+125	Varga Marcell	Újpesti Két Tanítási Nyelvû Mûszaki Szki	Budapest	50	informatika
+112	Bures Péter	Verebély	Budapest	52	informatika
+147	Kubik Zsuzsanna	Verebély	Budapest	46	informatika
+148	Kulcsár Norbert Imre	Verebély	Budapest	46	informatika
+151	Molnár Roland	Verebély	Budapest	45	informatika
+200	Badacsonyi Virginia Ramóna	Verebély	Budapest	21	informatika
+36	Balogh Bence	Petrik	Budapest	49	környezetvédelem
+42	Faragó Zsanett	Petrik	Budapest	44	környezetvédelem
+158	Murár Krisztián	Bem	Cegléd	50	gépész
+78	Hangyási Tamás	Batsányi	Csongrád	69	gépész
+167	Szûcs József	Batsányi	Csongrád	42	informatika
+199	Varga Gergõ	Batsányi	Csongrád	23	informatika
+38	Kis Szabolcs	Mechwart	Debrecen	75	gépész
+43	Béres Gábor	Mechwart	Debrecen	74	gépész
+54	Horváth Ákos	Mechwart	Debrecen	73	gépész
+64	Szántó Tibor	Mechwart	Debrecen	72	gépész
+70	Móricz Áron	Mechwart	Debrecen	71	gépész
+99	Kádár András Szilveszter	Mechwart	Debrecen	63	gépész
+103	Szigeti Márk	Mechwart	Debrecen	63	gépész
+107	Kaszás Gyula	Mechwart	Debrecen	62	gépész
+112	Kovács Lajos	Mechwart	Debrecen	61	gépész
+122	Vas Levente József	Mechwart	Debrecen	58	gépész
+14	Bora Dániel	Mechwart	Debrecen	76	informatika
+16	Kárándi Zsolt	Mechwart	Debrecen	75	informatika
+22	Kohári Zsolt	Mechwart	Debrecen	72	informatika
+26	Pete Zsolt	Mechwart	Debrecen	71	informatika
+45	Szabó Nándor Attila	Mechwart	Debrecen	65	informatika
+54	Kirilla Bence	Mechwart	Debrecen	63	informatika
+61	Varga Dávid Jonatán	Mechwart	Debrecen	62	informatika
+170	Kiss Tibor	Povolny Szakképzõ	Debrecen	37	gépész
+171	Biró István	Povolny Szakképzõ	Debrecen	35	gépész
+196	Eses Dóra	Apáczai	Dombóvár	29	informatika
+123	Angyal Endre	Bornemissza	Eger	57	gépész
+9	Vincze Ádám	Neumann	Eger	85	informatika
+11	Eckl Máté	Neumann	Eger	82	informatika
+19	Kaptás Tamás	Neumann	Eger	73	informatika
+25	Nagy-Kovács Dávid	Neumann	Eger	71	informatika
+34	Kovács Gergõ Richárd	Neumann	Eger	68	informatika
+56	Fodor Bence	Neumann	Eger	62	informatika
+66	Hajdú István	Neumann	Eger	60	informatika
+68	Katona Ádám	Neumann	Eger	60	informatika
+69	Kormos Benedek	Neumann	Eger	60	informatika
+92	Beluzsár Ádám	Neumann	Eger	56	informatika
+102	Máté Gábor	Neumann	Eger	55	informatika
+136	Péceli András	Neumann	Eger	48	informatika
+150	Fónagy Gergõ	Neumann	Eger	45	informatika
+164	Palik Norbert	Neumann	Eger	42	informatika
+182	Kis István	Neumann	Eger	37	informatika
+188	Pászthy Dániel	Neumann	Eger	36	informatika
+134	Ligeti Márk	Wigner	Eger	48	informatika
+153	Póka Balázs	Wigner	Eger	45	informatika
+178	Csikós Károly László	Wigner	Eger	38	informatika
+121	Turi Bence	Petõfi	Fehérgyarmat	51	informatika
+144	Bodnár Patrik	Petõfi	Fehérgyarmat	46	informatika
+146	Kiss Máté	Petõfi	Fehérgyarmat	46	informatika
+190	Csatlós Roland	Petõfi	Fehérgyarmat	34	informatika
+1	Lapincs Mátyás	Jedlik	Gyõr	93	informatika
+2	Pammer Áron	Jedlik	Gyõr	93	informatika
+3	Szász Márton Gergõ	Jedlik	Gyõr	92	informatika
+4	Deák Gergely	Jedlik	Gyõr	90	informatika
+5	Orosz Norbert	Jedlik	Gyõr	89	informatika
+6	Henczidai Bálint	Jedlik	Gyõr	88	informatika
+8	Bordák Tamás	Jedlik	Gyõr	87	informatika
+60	Haász Márk	Mechatronikai és Gépészeti Szakképzõ	Gyõr	72	gépész
+13	Zubor Lajos	Kõrösi	Hajdúnánás	82	gépész
+45	Kádár Csaba	Kõrösi	Hajdúnánás	74	gépész
+12	Holozsnyák Nándor Kristóf	Kõrösi	Hajdúnánás	79	informatika
+23	Stefán János	Kõrösi	Hajdúnánás	72	informatika
+3	Gyaraki Roland	Gregus	Hódmezõvásárhely	84	gépész
+16	Herczeg Csaba Ferenc	Gregus	Hódmezõvásárhely	81	gépész
+7	Boldizsár Ferenc Máté	Gregus	Hódmezõvásárhely	87	informatika
+10	Szûcs István Dávid	Gregus	Hódmezõvásárhely	84	informatika
+85	Jakabfi László	Gregus	Hódmezõvásárhely	57	informatika
+9	Sziliczki Ádám	Eötvös	Kaposvár	83	gépész
+69	László Richárd	Eötvös	Kaposvár	71	gépész
+128	Tóth Bence	Eötvös	Kaposvár	57	gépész
+143	Gábor Ferenc	Eötvös	Kaposvár	53	gépész
+13	Bors Zoltán	Eötvös	Kaposvár	77	informatika
+179	Henth Ferdinánd	Eötvös	Kaposvár	38	informatika
+50	Gerõczi Krisztián	Irinyi	Kazincbarcika	64	informatika
+101	Szendrõdi Krisztián	Irinyi	Kazincbarcika	56	informatika
+137	Sedlák Bálint Viktor	Irinyi	Kazincbarcika	48	informatika
+140	Krokavecz József	Irinyi	Kazincbarcika	47	informatika
+173	Konyha Balázs	Irinyi	Kazincbarcika	40	informatika
+174	Kulcsár Zoltán	Irinyi	Kazincbarcika	39	informatika
+193	Bosa Balázs	Irinyi	Kazincbarcika	32	informatika
+21	Hum Jázon	Mûszaki Szakképzõ	Kecskemét	80	gépész
+86	Góbor Krisztián	Mûszaki Szakképzõ	Kecskemét	67	gépész
+58	Kancsal Ádám	Asbóth Sándor Szakképzõ	Keszthely	62	informatika
+123	Kaczur Áron	Asbóth Sándor Szakképzõ	Keszthely	50	informatika
+192	Marton Ádám	Asbóth Sándor Szakképzõ	Keszthely	34	informatika
+195	Sass Dániel	Asbóth Sándor Szakképzõ	Keszthely	30	informatika
+102	Németh Krisztián Zsolt	Wattay Középiskola	Kiskörös	63	gépész
+114	Kristóf Áron	Wattay Középiskola	Kiskörös	60	gépész
+131	Muratovic Ervin	Wattay Középiskola	Kiskörös	56	gépész
+161	Krizsán Zsolt	Wattay Középiskola	Kiskörös	48	gépész
+164	Tasnádi László	Wattay Középiskola	Kiskörös	47	gépész
+166	Péli Áron	Wattay Középiskola	Kiskörös	45	gépész
+82	Kovács Dániel	Wattay Középiskola	Kiskörös	58	informatika
+154	Tóth Dávid	Wattay Középiskola	Kiskörös	45	informatika
+4	Horváth Roland	Szent Benedek Gimnázium	Kiskunfélegyháza	84	gépész
+14	Darabos Gábor	Szent Benedek Gimnázium	Kiskunfélegyháza	81	gépész
+17	Somogyi István	Szent Benedek Gimnázium	Kiskunfélegyháza	81	gépész
+24	Pálinkás Ádám	Szent Benedek Gimnázium	Kiskunfélegyháza	79	gépész
+25	Szobedek Kristóf	Szent Benedek Gimnázium	Kiskunfélegyháza	79	gépész
+30	Szarka-Kovács Csaba	Szent Benedek Gimnázium	Kiskunfélegyháza	77	gépész
+33	Hegedûs Dávid	Szent Benedek Gimnázium	Kiskunfélegyháza	76	gépész
+36	Szûcs Gergõ	Szent Benedek Gimnázium	Kiskunfélegyháza	76	gépész
+46	Kósa Endre	Szent Benedek Gimnázium	Kiskunfélegyháza	74	gépész
+47	Kovács Krisztián	Szent Benedek Gimnázium	Kiskunfélegyháza	74	gépész
+61	Kerti Dániel	Szent Benedek Gimnázium	Kiskunfélegyháza	72	gépész
+62	Kiss-Elek Balázs	Szent Benedek Gimnázium	Kiskunfélegyháza	72	gépész
+66	Hargitai Balázs	Szent Benedek Gimnázium	Kiskunfélegyháza	71	gépész
+67	Harkai Tamás	Szent Benedek Gimnázium	Kiskunfélegyháza	71	gépész
+72	Pálinkás Dániel	Szent Benedek Gimnázium	Kiskunfélegyháza	71	gépész
+73	Pogány Mihály	Szent Benedek Gimnázium	Kiskunfélegyháza	71	gépész
+75	Almási Szilárd	Szent Benedek Gimnázium	Kiskunfélegyháza	70	gépész
+84	Udvardi Béla	Szent Benedek Gimnázium	Kiskunfélegyháza	68	gépész
+88	Somogyi Szabolcs	Szent Benedek Gimnázium	Kiskunfélegyháza	67	gépész
+94	Kis Géza	Szent Benedek Gimnázium	Kiskunfélegyháza	65	gépész
+98	Patai Zsolt	Szent Benedek Gimnázium	Kiskunfélegyháza	64	gépész
+120	Kuklis Dániel	Szent Benedek Gimnázium	Kiskunfélegyháza	59	gépész
+88	Seres Henrik	Szent Benedek Gimnázium	Kiskunfélegyháza	57	informatika
+110	Polyák Zoltán	Szent Benedek Gimnázium	Kiskunfélegyháza	53	informatika
+152	Ország János	Szent Benedek Gimnázium	Kiskunfélegyháza	45	informatika
+191	Dóra Bálint	Szent Benedek Gimnázium	Kiskunfélegyháza	34	informatika
+59	Kiss László	Móricz	Kisújszállás	62	informatika
+84	Fodor Attila	Móricz	Kisújszállás	57	informatika
+103	Mátyus István	Móricz	Kisújszállás	54	informatika
+106	Galyas János Michael	Móricz	Kisújszállás	53	informatika
+132	Geszti Bence	Móricz	Kisújszállás	48	informatika
+89	Somogyi Bence	Széchenyi	Komárom	57	informatika
+90	Villám Márk	Széchenyi	Komárom	57	informatika
+127	László Attila	Széchenyi	Komárom	49	informatika
+180	Kovács Balázs	Széchenyi	Komárom	38	informatika
+189	Szlukovényi Ramona	Széchenyi	Komárom	36	informatika
+58	Fodor Bence	Mezõgazdasági Szakképzõ	Makó	72	gépész
+80	Arácsi Sándor	Mezõgazdasági Szakképzõ	Makó	68	gépész
+157	Kondász Attila	Mezõgazdasági Szakképzõ	Makó	50	gépész
+136	Németh Bálint	Kós	Miskolc	55	gépész
+50	Pék Péter	Andrássy	Miskolc	74	gépész
+76	Barna Bence	Andrássy	Miskolc	70	gépész
+96	Kántor Kristóf	Andrássy	Miskolc	64	gépész
+109	Nagy Róbert	Andrássy	Miskolc	62	gépész
+125	Nádasi Máté	Andrássy	Miskolc	57	gépész
+149	Ser László	Andrássy	Miskolc	52	gépész
+78	Molnár Dávid	Andrássy	Miskolc	59	informatika
+142	Saláta Gergõ	Andrássy	Miskolc	47	informatika
+157	Burka Erik	Andrássy	Miskolc	43	informatika
+57	Groff Tamás	Bláthy	Miskolc	62	informatika
+169	Egri Alex	Bláthy	Miskolc	41	informatika
+115	Süveg István	Kandó	Miskolc	52	informatika
+139	Bodnár Kristóf	Kandó	Miskolc	47	informatika
+161	Gyökér Zoltán Gábor	Kandó	Miskolc	42	informatika
+197	Besenyei Richárd	Kandó	Miskolc	27	informatika
+2	Abonyi Mátyás	Mûszaki Szakképzõ	Nagykanizsa	85	gépész
+12	Pintér Szabolcs	Mûszaki Szakképzõ	Nagykanizsa	82	gépész
+35	Németh Marcell	Mûszaki Szakképzõ	Nagykanizsa	76	gépész
+48	Németh Csaba	Mûszaki Szakképzõ	Nagykanizsa	74	gépész
+51	Solymosi Róbert Csaba	Mûszaki Szakképzõ	Nagykanizsa	74	gépész
+52	Cséplõ Norbert	Mûszaki Szakképzõ	Nagykanizsa	73	gépész
+53	Havasi Ákos	Mûszaki Szakképzõ	Nagykanizsa	73	gépész
+56	Bazsó Bence Ferenc	Mûszaki Szakképzõ	Nagykanizsa	72	gépész
+65	Bánfai Zsolt	Mûszaki Szakképzõ	Nagykanizsa	71	gépész
+77	Marton Róbert	Mûszaki Szakképzõ	Nagykanizsa	70	gépész
+108	Molnár Martin	Mûszaki Szakképzõ	Nagykanizsa	62	gépész
+36	Demku István	Széchenyi	Nyíregyháza	66	informatika
+42	Dóczy Dániel Csaba	Széchenyi	Nyíregyháza	65	informatika
+63	Meglecz Máté	Széchenyi	Nyíregyháza	61	informatika
+99	Simkó Gergõ	Széchenyi	Nyíregyháza	56	informatika
+122	Árva Ákos László	Széchenyi	Nyíregyháza	50	informatika
+135	Lõrincz Péter Pál	Széchenyi	Nyíregyháza	48	informatika
+110	Juhász Sándor	Bánki	Nyíregyháza	61	gépész
+118	Garai Gergõ	Bánki	Nyíregyháza	59	gépész
+130	Horváth Máté	Bánki	Nyíregyháza	56	gépész
+140	Molnár Mikeás	Bánki	Nyíregyháza	54	gépész
+141	Dozsnyák Ábrahám	Bánki	Nyíregyháza	53	gépész
+1	Csizmarik Zsanett	Vásárhelyi	Nyíregyháza	91	környezetvédelem
+2	D. Szûcs János	Vásárhelyi	Nyíregyháza	83	környezetvédelem
+4	Gál Bence László	Vásárhelyi	Nyíregyháza	82	környezetvédelem
+5	Ládi Alexandra	Vásárhelyi	Nyíregyháza	79	környezetvédelem
+8	Kiss Ivett	Vásárhelyi	Nyíregyháza	69	környezetvédelem
+12	Korpai Zoltán	Vásárhelyi	Nyíregyháza	64	környezetvédelem
+13	Urr Máté	Vásárhelyi	Nyíregyháza	63	környezetvédelem
+14	Hreskó Ádám	Vásárhelyi	Nyíregyháza	62	környezetvédelem
+15	Varga Lilla	Vásárhelyi	Nyíregyháza	62	környezetvédelem
+16	Valendorfean Barbara	Vásárhelyi	Nyíregyháza	61	környezetvédelem
+17	Szûcs Bence	Vásárhelyi	Nyíregyháza	60	környezetvédelem
+19	Kuik Balázs	Vásárhelyi	Nyíregyháza	59	környezetvédelem
+20	Marozsán Regina	Vásárhelyi	Nyíregyháza	59	környezetvédelem
+22	Lábas Norbert	Vásárhelyi	Nyíregyháza	56	környezetvédelem
+25	Gyurica Ákos	Vásárhelyi	Nyíregyháza	55	környezetvédelem
+26	Ratkó Renátó	Vásárhelyi	Nyíregyháza	55	környezetvédelem
+27	Ujj László Dániel	Vásárhelyi	Nyíregyháza	55	környezetvédelem
+28	Ferencz Kitti	Vásárhelyi	Nyíregyháza	55	környezetvédelem
+29	Kreidl Enikõ	Vásárhelyi	Nyíregyháza	54	környezetvédelem
+31	Soltész Ádám	Vásárhelyi	Nyíregyháza	53	környezetvédelem
+33	Nagy Róbert László	Vásárhelyi	Nyíregyháza	51	környezetvédelem
+40	Ducsai Dávid	Vásárhelyi	Nyíregyháza	47	környezetvédelem
+41	Pisák János	Vásárhelyi	Nyíregyháza	47	környezetvédelem
+51	Liptai Elizabet	Vásárhelyi	Nyíregyháza	37	környezetvédelem
+133	Vámosi Tibor Márk	Hamvas Szakképzõ	Oroszlány	56	gépész
+165	Dezsõ Renáta	Hamvas Szakképzõ	Oroszlány	45	gépész
+6	Szigeti Viktória	Energetikai Szki	Paks	73	környezetvédelem
+7	Major Balázs	Energetikai Szki	Paks	70	környezetvédelem
+18	Baracz Boglárka	Energetikai Szki	Paks	60	környezetvédelem
+156	Bojdol Márk	Simonyi	Pécs	44	informatika
+187	Merckle Balázs	Simonyi	Pécs	36	informatika
+7	Nagy Krisztián	Zipernowsky	Pécs	83	gépész
+32	Bori Dániel	Zipernowsky	Pécs	76	gépész
+37	Bubreg Máté	Zipernowsky	Pécs	75	gépész
+105	Beck László	Zipernowsky	Pécs	62	gépész
+71	Raksányi Róbert	Zipernowsky	Pécs	60	informatika
+86	Kapoli Antal	Zipernowsky	Pécs	57	informatika
+96	Kitojinics Marko	Zipernowsky	Pécs	56	informatika
+109	Piszkor Balázs	Zipernowsky	Pécs	53	informatika
+143	Balázs Máté	Zipernowsky	Pécs	46	informatika
+60	Vida Tamás	Karacs Ferenc Gimnázium	Püspökladány	19	környezetvédelem
+18	Zsély Bence	Stromfeld	Salgótarján	81	gépész
+57	Fekete Gábor	Stromfeld	Salgótarján	72	gépész
+79	Kazinczi Mihály Ákos	Stromfeld	Salgótarján	69	gépész
+52	Pála Tamás	Stromfeld	Salgótarján	64	informatika
+67	Hegedûs Ádám	Stromfeld	Salgótarján	60	informatika
+186	Bakonszegi Ádám	Stromfeld	Salgótarján	36	informatika
+153	Stefán Erik	Széchenyi	Százhalombatta	51	gépész
+167	Kneif Réka	Széchenyi	Százhalombatta	44	gépész
+47	Vér Richárd	Gábor Dénes Szki	Szeged	41	környezetvédelem
+97	Palotás Norbert	Móravárosi Ipari Szakképzõ	Szeged	64	gépész
+117	Deák Dénes Gábor	Móravárosi Ipari Szakképzõ	Szeged	59	gépész
+135	Maróti Tibor Roland	Móravárosi Ipari Szakképzõ	Szeged	55	gépész
+137	Ulita Florin Denis	Móravárosi Ipari Szakképzõ	Szeged	55	gépész
+148	Molnár István	Móravárosi Ipari Szakképzõ	Szeged	52	gépész
+150	Szõke Barnabás	Móravárosi Ipari Szakképzõ	Szeged	52	gépész
+27	Fekete Áron zsolt	Móravárosi Ipari Szakképzõ	Szeged	70	informatika
+55	Maróti Ádám	Móravárosi Ipari Szakképzõ	Szeged	63	informatika
+111	Kóti Péter	Szigeti Endre Szakképzõ	Szeghalom	61	gépész
+160	Bede Balázs	Szigeti Endre Szakképzõ	Szeghalom	48	gépész
+108	Németh Richárd	Belvárosi I. István Középiskola	Székesfehérvár	53	informatika
+133	Kõmíves Gergó	Belvárosi I. István Középiskola	Székesfehérvár	48	informatika
+141	Palman László	Belvárosi I. István Középiskola	Székesfehérvár	47	informatika
+83	Tóth András	Széchenyi	Székesfehérvár	68	gépész
+113	Sári Dávid Elek	Széchenyi	Székesfehérvár	61	gépész
+119	Kokány Péter	Széchenyi	Székesfehérvár	59	gépész
+138	Bozsoki Zsolt	Széchenyi	Székesfehérvár	54	gépész
+146	Tósoki Dávid	Széchenyi	Székesfehérvár	53	gépész
+151	Vachtler Szabolcs	Széchenyi	Székesfehérvár	52	gépész
+156	Dancsó Gábor	Széchenyi	Székesfehérvár	50	gépész
+18	Zádori Ferenc	Széchenyi	Székesfehérvár	75	informatika
+155	Bartalos Dávid Lajos	Széchenyi	Székesfehérvár	44	informatika
+5	Sas László	Mûszaki Szki	Szolnok	84	gépész
+6	Mihálycsik Martin	Mûszaki Szki	Szolnok	83	gépész
+11	Pekárik Dániel Imre	Mûszaki Szki	Szolnok	82	gépész
+22	Fodor Péter	Mûszaki Szki	Szolnok	79	gépész
+81	Donkó Károly	Mûszaki Szki	Szolnok	68	gépész
+28	Bede Martin Milán	Mûszaki Szki	Szolnok	69	informatika
+30	Izbéki Ádám	Mûszaki Szki	Szolnok	69	informatika
+81	Kiss Ádám	Mûszaki Szki	Szolnok	58	informatika
+113	Farkas Norbert	Mûszaki Szki	Szolnok	52	informatika
+116	Szilágyi Ádám	Mûszaki Szki	Szolnok	52	informatika
+118	Varga Bálint	Mûszaki Szki	Szolnok	52	informatika
+124	Nagy Krisztián István	Mûszaki Szki	Szolnok	50	informatika
+129	Sas Ferenc	Mûszaki Szki	Szolnok	49	informatika
+158	Kengyel Máté Zoltán	Mûszaki Szki	Szolnok	43	informatika
+160	Uhrin Ádám Attila	Mûszaki Szki	Szolnok	43	informatika
+163	Markót Richárd	Mûszaki Szki	Szolnok	42	informatika
+170	Kerepesi Balázs	Mûszaki Szki	Szolnok	41	informatika
+172	Bozsik Virgil	Mûszaki Szki	Szolnok	40	informatika
+177	Varga Bence	Mûszaki Szki	Szolnok	39	informatika
+185	Szõke Viktor	Mûszaki Szki	Szolnok	37	informatika
+3	Koch Márk	Mûszaki Szki	Szolnok	83	környezetvédelem
+11	Vajda Dóra	Mûszaki Szki	Szolnok	66	környezetvédelem
+32	Maróti Máté	Mûszaki Szki	Szolnok	52	környezetvédelem
+39	Süõ Balázs Péter	Mûszaki Szki	Szolnok	48	környezetvédelem
+55	Ronyecz Richárd Zsolt	Mûszaki Szki	Szolnok	32	környezetvédelem
+105	Bokor Ádám	Horváth Boldizsár Szki	Szombathely	53	informatika
+128	Miklós Krisztián	Horváth Boldizsár Szki	Szombathely	49	informatika
+183	Lándori Dávid László	Horváth Boldizsár Szki	Szombathely	37	informatika
+59	Gérnyi Martin	Mûszaki Szakképzõ	Szombathely	72	gépész
+63	Nagy András István	Mûszaki Szakképzõ	Szombathely	72	gépész
+71	Németh Roland Csaba	Mûszaki Szakképzõ	Szombathely	71	gépész
+87	Horváth Márk	Mûszaki Szakképzõ	Szombathely	67	gépész
+95	Józsa Tamás	Mûszaki Szakképzõ	Szombathely	64	gépész
+104	Balázs Márk Attila	Mûszaki Szakképzõ	Szombathely	62	gépész
+115	Lajos Róbert	Mûszaki Szakképzõ	Szombathely	60	gépész
+162	Nagy Zoltán	Mûszaki Szakképzõ	Szombathely	48	gépész
+21	Görög Áron	Mûszaki Szakképzõ	Szombathely	72	informatika
+37	Györe Bence	Mûszaki Szakképzõ	Szombathely	66	informatika
+41	Baranyai Márk	Mûszaki Szakképzõ	Szombathely	65	informatika
+51	Juhász Krisztián	Mûszaki Szakképzõ	Szombathely	64	informatika
+62	Czinder Vendel	Mûszaki Szakképzõ	Szombathely	61	informatika
+74	Király Bálint Martin	Mûszaki Szakképzõ	Szombathely	59	informatika
+131	Szunyi Attila	Mûszaki Szakképzõ	Szombathely	49	informatika
+119	Bacsa Dávid	Széchenyi István Szakképzõ	Tapolca	51	informatika
+162	Jerem Adrian	Széchenyi István Szakképzõ	Tapolca	42	informatika
+20	Fábián Dávid	Integrált Szi	Tatabánya	80	gépész
+23	Kõvári Imre László	Integrált Szi	Tatabánya	79	gépész
+68	Kulman Renátó	Integrált Szi	Tatabánya	71	gépész
+82	Molnár Deli Tódor	Integrált Szi	Tatabánya	68	gépész
+85	Borbély Attila Benjamin	Integrált Szi	Tatabánya	67	gépész
+89	Borbély Egon Olivér	Integrált Szi	Tatabánya	66	gépész
+91	Kocsi Zoltán	Integrált Szi	Tatabánya	66	gépész
+92	Kun Gergõ	Integrált Szi	Tatabánya	66	gépész
+101	Mészáros Csaba	Integrált Szi	Tatabánya	63	gépész
+106	Horváthy Krisztián	Integrált Szi	Tatabánya	62	gépész
+124	Balla Gergõ	Integrált Szi	Tatabánya	57	gépész
+126	Schmidt Tamás	Integrált Szi	Tatabánya	57	gépész
+144	Mellencsuk Imre Attila	Integrált Szi	Tatabánya	53	gépész
+154	Szabó Ábel	Integrált Szi	Tatabánya	51	gépész
+21	Varga Lajos	Tokaji Ferenc Gimnázium	Tokaj	58	környezetvédelem
+34	Kaczur Dávid	Tokaji Ferenc Gimnázium	Tokaj	50	környezetvédelem
+38	Bodnár Péter	Tokaji Ferenc Gimnázium	Tokaj	48	környezetvédelem
+48	Takács Zoltán	Tokaji Ferenc Gimnázium	Tokaj	40	környezetvédelem
+27	Kalácska Eszter	Boronkay	Vác	78	gépész
+28	Szlobodnik Tamás	Boronkay	Vác	78	gépész
+31	Balázsy Ádám	Boronkay	Vác	76	gépész
+41	Ullrich Kristóf	Boronkay	Vác	75	gépész
+90	Karcsai Jammel Sebõ	Boronkay	Vác	66	gépész
+15	Flamich Gergely	Boronkay	Vác	76	informatika
+65	Czinege Dóra	Boronkay	Vác	60	informatika
+168	Vollai Dóra	Boronkay	Vác	42	informatika
+1	Hulka László	Ipari Szki	Veszprém	88	gépész
+8	Orgoványi Csaba	Ipari Szki	Veszprém	83	gépész
+10	Balta Róbert	Ipari Szki	Veszprém	82	gépész
+15	Gulkai Dávid	Ipari Szki	Veszprém	81	gépész
+19	Biróczky Máté	Ipari Szki	Veszprém	80	gépész
+26	Berkes Dávid	Ipari Szki	Veszprém	78	gépész
+46	Svéd Dániel	Ipari Szki	Veszprém	41	környezetvédelem
+52	Kálmán Anna	Ipari Szki	Veszprém	35	környezetvédelem
+17	Keszei Ábel	Csány Szki	Zalaegerszeg	75	informatika
+29	Biczó Máté	Csány Szki	Zalaegerszeg	69	informatika
+32	Csabai Abigél	Csány Szki	Zalaegerszeg	68	informatika
+72	Zóka Dániel	Csány Szki	Zalaegerszeg	60	informatika
+100	Szabó levente László	Csány Szki	Zalaegerszeg	56	informatika
+116	Szép Endre	Ganz	Zalaegerszeg	60	gépész
+159	Farkas Gergõ	Ganz	Zalaegerszeg	49	gépész
+46	Vikár Dávid	Ganz	Zalaegerszeg	65	informatika
+53	Vincze Attila	Ganz	Zalaegerszeg	64	informatika
+94	Gorza Barna zoltán	Ganz	Zalaegerszeg	56	informatika
+114	Pénzes Roland	Ganz	Zalaegerszeg	52	informatika
