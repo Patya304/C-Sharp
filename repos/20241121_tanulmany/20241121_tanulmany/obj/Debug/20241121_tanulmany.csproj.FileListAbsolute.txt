@@ -1,0 +1,6 @@
+C:\Users\modroczky.patrik\source\repos\20241121_tanulmany\20241121_tanulmany\bin\Debug\20241121_tanulmany.exe.config
+C:\Users\modroczky.patrik\source\repos\20241121_tanulmany\20241121_tanulmany\bin\Debug\20241121_tanulmany.exe
+C:\Users\modroczky.patrik\source\repos\20241121_tanulmany\20241121_tanulmany\bin\Debug\20241121_tanulmany.pdb
+C:\Users\modroczky.patrik\source\repos\20241121_tanulmany\20241121_tanulmany\obj\Debug\20241121_tanulmany.csprojAssemblyReference.cache
+C:\Users\modroczky.patrik\source\repos\20241121_tanulmany\20241121_tanulmany\obj\Debug\20241121_tanulmany.exe
+C:\Users\modroczky.patrik\source\repos\20241121_tanulmany\20241121_tanulmany\obj\Debug\20241121_tanulmany.pdb

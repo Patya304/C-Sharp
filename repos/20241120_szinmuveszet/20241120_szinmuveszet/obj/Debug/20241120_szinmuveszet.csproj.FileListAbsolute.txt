@@ -1,0 +1,6 @@
+C:\Users\modroczky.patrik\source\repos\20241120_szinmuveszet\20241120_szinmuveszet\bin\Debug\20241120_szinmuveszet.exe.config
+C:\Users\modroczky.patrik\source\repos\20241120_szinmuveszet\20241120_szinmuveszet\bin\Debug\20241120_szinmuveszet.exe
+C:\Users\modroczky.patrik\source\repos\20241120_szinmuveszet\20241120_szinmuveszet\bin\Debug\20241120_szinmuveszet.pdb
+C:\Users\modroczky.patrik\source\repos\20241120_szinmuveszet\20241120_szinmuveszet\obj\Debug\20241120_szinmuveszet.csprojAssemblyReference.cache
+C:\Users\modroczky.patrik\source\repos\20241120_szinmuveszet\20241120_szinmuveszet\obj\Debug\20241120_szinmuveszet.exe
+C:\Users\modroczky.patrik\source\repos\20241120_szinmuveszet\20241120_szinmuveszet\obj\Debug\20241120_szinmuveszet.pdb

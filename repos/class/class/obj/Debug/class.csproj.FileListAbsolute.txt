@@ -1,0 +1,6 @@
+C:\Users\modroczky.patrik\source\repos\class\class\bin\Debug\@class.exe.config
+C:\Users\modroczky.patrik\source\repos\class\class\bin\Debug\@class.exe
+C:\Users\modroczky.patrik\source\repos\class\class\bin\Debug\@class.pdb
+C:\Users\modroczky.patrik\source\repos\class\class\obj\Debug\class.csprojAssemblyReference.cache
+C:\Users\modroczky.patrik\source\repos\class\class\obj\Debug\@class.exe
+C:\Users\modroczky.patrik\source\repos\class\class\obj\Debug\@class.pdb
